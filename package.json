@@ -1,0 +1,964 @@
+[
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CUS1115",
+        "temp" : "71728",
+        "name" : "COMPUTER PROGRAMMING FUND I",
+        "credits": "3",
+        "day" : "TF",
+        "time" : "1350-1515",
+        "professor" : "Christina Schweikert",
+        "type": "lecture",
+        "seat" : "1"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CUS1115",
+        "temp" : "75661",
+        "name" : "COMPUTER PROGRAMMING FUND I",
+        "credits": "3",
+        "day" : "W",
+        "time" : "1040-1330",
+        "professor" : "Simina Fluture",
+        "type": "lec-lab",
+        "seat" : "1"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CUS1115",
+        "temp" : "72577",
+        "name" : "COMPUTER PROGRAMMING FUND I",
+        "credits": "3",
+        "day" : "TF",
+        "time" : "0905-1030",
+        "professor" : "Jun Wu",
+        "type": "lec-lab",
+        "seat" : "3"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CUS1115",
+        "temp" : "71702",
+        "name" : "COMPUTER PROGRAMMING FUND I",
+        "credits": "3",
+        "day" : "MR",
+        "time" : "1040-1205",
+        "professor" : "Joan Debello",
+        "type": "lec-lab",
+        "seat" : "1"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CUS1115",
+        "temp" : "71703",
+        "name" : "COMPUTER PROGRAMMING FUND I",
+        "credits": "3",
+        "day" : "MR",
+        "time" : "0905-1030",
+        "professor" : "Joan Debello",
+        "type": "lec-lab",
+        "seat" : "1"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CUS1115",
+        "temp" : "71704",
+        "name" : "COMPUTER PROGRAMMING FUND I",
+        "credits": "3",
+        "day" : "MR",
+        "time" : "1215-1340",
+        "professor" : "Anne Smith-Thompson",
+        "type": "lec-lab",
+        "seat" : "4"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CUS1116",
+        "temp" : "71910",
+        "name" : "COMPUTER PROGRAMMING FUND II",
+        "credits": "3",
+        "day" : "MR",
+        "time" : "0905-1030",
+        "professor" : "Anne Smith-Thompson",
+        "type": "lec-lab",
+        "seat" : "4"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CUS1116",
+        "temp" : "72680",
+        "name" : "COMPUTER PROGRAMMING FUND II",
+        "credits": "3",
+        "day" : "W",
+        "time" : "1350-1640",
+        "professor" : "Jun Wun",
+        "type": "lec-lab",
+        "seat" : "16"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CUS1126",
+        "temp" : "71911",
+        "name" : "INTRODUCTION TO DATA STRUCTURES",
+        "credits": "3",
+        "day" : "TF",
+        "time" : "0905-1030",
+        "professor" : "Fazel Keshtkar",
+        "type": "lec-lab",
+        "seat" : "1"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CUS1126",
+        "temp" : "71913",
+        "name" : "INTRODUCTION TO DATA STRUCTURES",
+        "credits": "3",
+        "day" : "W",
+        "time" : "1350-1640",
+        "professor" : "Charles Edeki",
+        "type": "lec-lab",
+        "seat" : "3"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CUS1126",
+        "temp" : "73712",
+        "name" : "INTRODUCTION TO DATA STRUCTURES",
+        "credits": "3",
+        "day" : "MR",
+        "time" : "1525-1650",
+        "professor" : "Charles Edeki",
+        "type": "lec-lab",
+        "seat" : "13"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CUS1151",
+        "temp" : "72681",
+        "name" : "ADVANCED DATA STRUCTURES",
+        "credits": "3",
+        "day" : "TF",
+        "time" : "1040-1205",
+        "professor" : "Fazel Keshtkar",
+        "type": "lecture",
+        "seat" : "13"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CUS1156",
+        "temp" : "73062",
+        "name" : "SOFTWARE DESIGN METHODS",
+        "credits": "3",
+        "day" : "MR",
+        "time" : "1040-1205",
+        "professor" : "Bonnie MacKellar",
+        "type": "lecture",
+        "seat" : "17"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CUS1156",
+        "temp" : "72084",
+        "name" : "SOFTWARE DESIGN METHODS",
+        "credits": "3",
+        "day" : "TF",
+        "time" : "1350-1515",
+        "professor" : "Syed Ahmad Chan Bukhari",
+        "type": "lecture",
+        "seat" : "5"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CUS1161",
+        "temp" : "72414",
+        "name" : "LOGICAL DESIGN",
+        "credits": "3",
+        "day" : "M",
+        "time" : "1525-1650",
+        "professor" : "Ronald Sklar",
+        "type": "hybrid",
+        "seat" : "10"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CUS1162",
+        "temp" : "72085",
+        "name" : "COMPUTER ARCHITECTURE",
+        "credits": "3",
+        "day" : "T",
+        "time" : "1700-1825",
+        "professor" : "Ronald Sklar",
+        "type": "hybrid",
+        "seat" : "0"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CUS1163",
+        "temp" : "72682",
+        "name" : "OPERATING SYSTEMS",
+        "credits": "3",
+        "day" : "TF",
+        "time" : "1215-1340",
+        "professor" : "Christina Schweikert",
+        "type": "lecture",
+        "seat" : "0"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CUS1164",
+        "temp" : "76238",
+        "name" : "COMPILERS & PROGRAM TRANS",
+        "credits": "3",
+        "day" : "TF",
+        "time" : "1910-2110",
+        "professor" : "Nikhil Yadav",
+        "type": "lecture",
+        "seat" : "0"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CUS1165",
+        "temp" : "75631",
+        "name" : "DATA BASE MANAGEMENT SYSTEMS",
+        "credits": "3",
+        "day" : "MR",
+        "time" : "0905-1030",
+        "professor" : "Richard Scorce",
+        "type": "lecture",
+        "seat" : "0"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CUS1165",
+        "temp" : "72561",
+        "name" : "DATA BASE MANAGEMENT SYSTEMS",
+        "credits": "3",
+        "day" : "W",
+        "time" : "1040-1330",
+        "professor" : "Bonnie MacKellar",
+        "type": "lecture",
+        "seat" : "4"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CUS1165",
+        "temp" : "70611",
+        "name" : "DATA BASE MANAGEMENT SYSTEMS",
+        "credits": "3",
+        "day" : "MR",
+        "time" : "1215-1340",
+        "professor" : "Richard Scorce",
+        "type": "lecture",
+        "seat" : "0"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CUS1166",
+        "temp" : "72239",
+        "name" : "SOFTWARE ENGINEERING",
+        "credits": "3",
+        "day" : "W",
+        "time" : "1350-1640",
+        "professor" : "Christoforos Christoforou",
+        "type": "lec-lab",
+        "seat" : "5"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CUS1167",
+        "temp" : "72683",
+        "name" : "SYSTEMS ANALYSIS",
+        "credits": "3",
+        "day" : "MR",
+        "time" : "0730-0855",
+        "professor" : "Richard Scorce",
+        "type": "lecture",
+        "seat" : "1"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CUS1168",
+        "temp" : "72684",
+        "name" : "THEORY OF PROGRAMMING LANGUAGE",
+        "credits": "3",
+        "day" : "TF",
+        "time" : "0730-0855",
+        "professor" : "Nikhil Yadav",
+        "type": "lecture",
+        "seat" : "2"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CUS1172",
+        "temp" : "75679",
+        "name" : "WEB PAGE GRAPHICS",
+        "credits": "3",
+        "day" : "MR",
+        "time" : "1040-1205",
+        "professor" : "Christoforos Christoforou",
+        "type": "lecture",
+        "seat" : "0"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CUS1179",
+        "temp" : "72483",
+        "name" : "DATA MINING",
+        "credits": "3",
+        "day" : "TF",
+        "time" : "0905-1030",
+        "professor" : "Nikhil Yadav",
+        "type": "lec-lab",
+        "seat" : "1"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CUS1187",
+        "temp" : "73715",
+        "name" : "FINITE AUTOMATA & FORMAL LANGUAGES",
+        "credits": "3",
+        "day" : "T",
+        "time" : "1700-1950",
+        "professor" : "Ronald Fechter",
+        "type": "lecture",
+        "seat" : "19"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CUS1188",
+        "temp" : "76239",
+        "name" : "ANALYSIS OF ALGORITHMS",
+        "credits": "3",
+        "day" : "T",
+        "time" : "1700-1900",
+        "professor" : "Christoforos Christoforou",
+        "type": "lecture",
+        "seat" : "0"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "IT1011",
+        "temp" : "73717",
+        "name" : "INFORMATION TECHNOLOGY FOR BUSINESS",
+        "credits": "3",
+        "day" : "MR",
+        "time" : "0905-1030",
+        "professor" : "Geoffrey Dick",
+        "type": "lec-lab",
+        "seat" : "13"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "MTH1003",
+        "temp" : "73718",
+        "name" : "INTRODUCTION TO COLLEGE MATH I",
+        "credits": "3",
+        "day" : "TF",
+        "time" : "1700-1825",
+        "professor" : "William Malone",
+        "type": "lecture",
+        "seat" : "0"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "MTH1003",
+        "temp" : "72722",
+        "name" : "INTRODUCTION TO COLLEGE MATH I",
+        "credits": "3",
+        "day" : "TF",
+        "time" : "1215-1340",
+        "professor" : "Joseph Achtziger",
+        "type": "lecture",
+        "seat" : "2"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "MTH1003",
+        "temp" : "70044",
+        "name" : "INTRODUCTION TO COLLEGE MATH I",
+        "credits": "3",
+        "day" : "W",
+        "time" : "1910-2200",
+        "professor" : "Maureen Henry",
+        "type": "lecture",
+        "seat" : "6"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "MTH1003",
+        "temp" : "70045",
+        "name" : "INTRODUCTION TO COLLEGE MATH I",
+        "credits": "3",
+        "day" : "MR",
+        "time" : "0905-1030",
+        "professor" : "Janet Cerulli",
+        "type": "lecture",
+        "seat" : "0"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "MTH1003",
+        "temp" : "71621",
+        "name" : "INTRODUCTION TO COLLEGE MATH I",
+        "credits": "3",
+        "day" : "TF",
+        "time" : "1215-1340",
+        "professor" : "Thomas Cerulli",
+        "type": "lecture",
+        "seat" : "0"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "MTH1003",
+        "temp" : "70778",
+        "name" : "INTRODUCTION TO COLLEGE MATH I",
+        "credits": "3",
+        "day" : "S",
+        "time" : "0830-1120",
+        "professor" : "Joseph Achtziger",
+        "type": "lecture",
+        "seat" : "5"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "MTH1003",
+        "temp" : "75550",
+        "name" : "INTRODUCTION TO COLLEGE MATH I",
+        "credits": "3",
+        "day" : "TF",
+        "time" : "0905-1030",
+        "professor" : "Kathleen Holliday",
+        "type": "lecture",
+        "seat" : "1"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "MTH1004",
+        "temp" : "75904",
+        "name" : "INTRODUCTION TO COLLEGE MATH II",
+        "credits": "3",
+        "day" : "TF",
+        "time" : "1215-1340",
+        "professor" : "Kathleen Holliday",
+        "type": "lecture",
+        "seat" : "4"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "MTH1007",
+        "temp" : "71510",
+        "name" : "COLLEGE ALGEBRA & TRIGONOMETRY",
+        "credits": "3",
+        "day" : "R",
+        "time" : "1700-1950",
+        "professor" : "Hector Chakraborty",
+        "type": "lecture",
+        "seat" : "20"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "MTH1007",
+        "temp" : "70042",
+        "name" : "COLLEGE ALGEBRA & TRIGONOMETRY",
+        "credits": "3",
+        "day" : "M",
+        "time" : "1700-1950",
+        "professor" : "Abdel Aziz Elmrini",
+        "type": "lecture",
+        "seat" : "7"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "MTH1007",
+        "temp" : "70043",
+        "name" : "COLLEGE ALGEBRA & TRIGONOMETRY",
+        "credits": "3",
+        "day" : "TF",
+        "time" : "1040-1205",
+        "professor" : "Michael Manley",
+        "type": "lecture",
+        "seat" : "4"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "MTH1007",
+        "temp" : "70286",
+        "name" : "COLLEGE ALGEBRA & TRIGONOMETRY",
+        "credits": "3",
+        "day" : "TF",
+        "time" : "0905-1030",
+        "professor" : "Michael Manley",
+        "type": "lecture",
+        "seat" : "3"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "MTH1008",
+        "temp" : "72240",
+        "name" : "MATRIX METHODS",
+        "credits": "3",
+        "day" : "TF",
+        "time" : "0905-1030",
+        "professor" : "Peter Laneri",
+        "type": "lecture",
+        "seat" : "0"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "MTH1008",
+        "temp" : "72415",
+        "name" : "MATRIX METHODS",
+        "credits": "3",
+        "day" : "TF",
+        "time" : "0730-0855",
+        "professor" : "Peter Laneri",
+        "type": "lecture",
+        "seat" : "0"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "MTH1009",
+        "temp" : "70040",
+        "name" : "CALCULUS I",
+        "credits": "3",
+        "day" : "T",
+        "time" : "1700-1950",
+        "professor" : "Hector Chakraborty",
+        "type": "lecture",
+        "seat" : "1"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "MTH1009",
+        "temp" : "70041",
+        "name" : "CALCULUS I",
+        "credits": "3",
+        "day" : "TF",
+        "time" : "1525-1650",
+        "professor" : "Michael Vaisfeld",
+        "type": "lecture",
+        "seat" : "9"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "MTH1009",
+        "temp" : "72086",
+        "name" : "CALCULUS I",
+        "credits": "3",
+        "day" : "TF",
+        "time" : "1350-1515",
+        "professor" : "Linda Mollo-Holmes",
+        "type": "lecture",
+        "seat" : "1"
+          }},
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "MTH1009",
+        "temp" : "71169",
+        "name" : "CALCULUS I",
+        "credits": "3",
+        "day" : "TF",
+        "time" : "1215-1340",
+        "professor" : "Linda Mollo-Holmes",
+        "type": "lecture",
+        "seat" : "1"
+          }},
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "MTH1009",
+        "temp" : "71620",
+        "name" : "CALCULUS I",
+        "credits": "3",
+        "day" : "TF",
+        "time" : "1525-1650",
+        "professor" : "Abdel Aziz Elmrini",
+        "type": "lecture",
+        "seat" : "0"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "MTH1010",
+        "temp" : "70039",
+        "name" : "CALCULUS II",
+        "credits": "3",
+        "day" : "TF",
+        "time" : "1040-1205",
+        "professor" : "Gerald Latzman",
+        "type": "lecture",
+        "seat" : "1"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "MTH1011",
+        "temp" : "75662",
+        "name" : "CALCULUS III",
+        "credits": "3",
+        "day" : "W",
+        "time" : "0730-1020",
+        "professor" : "Frank Servas",
+        "type": "lecture",
+        "seat" : "6"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "MTH1013",
+        "temp" : "70886",
+        "name" : "PROBABILITY AND STATISTICS I",
+        "credits": "3",
+        "day" : "T",
+        "time" : "0905-1030",
+        "professor" : "Frank Servas",
+        "type": "hybrid",
+        "seat" : "0"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "MTH1014",
+        "temp" : "71619",
+        "name" : "PROBABILITY AND STATISTICS II",
+        "credits": "3",
+        "day" : "T",
+        "time" : "1040-1205",
+        "professor" : "Frank Servas",
+        "type": "hybrid",
+        "seat" : "4"
+          }},
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "MTH1014",
+        "temp" : "72416",
+        "name" : "PROBABILITY AND STATISTICS II",
+        "credits": "3",
+        "day" : "R",
+        "time" : "1700-1950",
+        "professor" : "Satyanand Singh",
+        "type": "lecture",
+        "seat" : "0"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "MTH1017",
+        "temp" : "73720",
+        "name" : "MATHEMATICAL LOGIC",
+        "credits": "3",
+        "day" : "W",
+        "time" : "1700-1825",
+        "professor" : "Ronald Fechter",
+        "type": "hybrid",
+        "seat" : "0"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "MTH1021",
+        "temp" : "70038",
+        "name" : "INTRODUCTION TO STATISTICS",
+        "credits": "3",
+        "day" : "TF",
+        "time" : "0730-0855",
+        "professor" : "Marist Brothers McCauley",
+        "type": "lecture",
+        "seat" : "12"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "MTH1021",
+        "temp" : "71956",
+        "name" : "INTRODUCTION TO STATISTICS",
+        "credits": "3",
+        "day" : "MR",
+        "time" : "0730-0855",
+        "professor" : "Marist Brothers McCauley",
+        "type": "lecture",
+        "seat" : "4"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "MTH1022",
+        "temp" : "72694",
+        "name" : "DISCRETE MATHEMATICS",
+        "credits": "3",
+        "day" : "MR",
+        "time" : "1525-1650",
+        "professor" : "Satyanand Singh",
+        "type": "lecture",
+        "seat" : "1"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "MTH1030",
+        "temp" : "71943",
+        "name" : "MATH FOR ELEMENTARY TEACHER I",
+        "credits": "3",
+        "day" : "TF",
+        "time" : "1350-1515",
+        "professor" : "Janet Cerulli",
+        "type": "lecture",
+        "seat" : "4"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "HCI1001",
+        "temp" : "75265",
+        "name" : "INTRODUCTION HEALTHCARE INFORMATICS",
+        "credits": "3",
+        "day" : "W",
+        "time" : "1040-1330",
+        "professor" : "Syed Ahmad Chan Bukhari",
+        "type": "lecture",
+        "seat" : "16"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "HCI1021",
+        "temp" : "75265",
+        "name" : "HEALTHCARE DATABASE MGT SYS",
+        "credits": "3",
+        "day" : "W",
+        "time" : "1040-1330",
+        "professor" : "Bonnie MacKellar",
+        "type": "lecture",
+        "seat" : "0"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "NET1011",
+        "temp" : "71428",
+        "name" : "INTRODUCTION TO NETWORKS",
+        "credits": "3",
+        "day" : "W",
+        "time" : "0730-1020",
+        "professor" : "Maxine Greenidge",
+        "type": "lec-lab",
+        "seat" : "3"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "NET1015",
+        "temp" : "72241",
+        "name" : "ROUTING & SWITCHING ESSENTIALS",
+        "credits": "3",
+        "day" : "S",
+        "time" : "0830-1120",
+        "professor" : "John Rullan",
+        "type": "lec-lab",
+        "seat" : "9"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "NET1031",
+        "temp" : "72706",
+        "name" : "WIRELESS NETWORKING",
+        "credits": "3",
+        "day" : "S",
+        "time" : "1230-1520",
+        "professor" : "Felix Fischman",
+        "type": "lec-lab",
+        "seat" : "4"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CSS1005",
+        "temp" : "71427",
+        "name" : "FUNDAMENTALS OF CYBER SECURITY",
+        "credits": "3",
+        "day" : "MR",
+        "time" : "1215-1340",
+        "professor" : "Juan Otero",
+        "type": "lec-lab",
+        "seat" : "0"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CSS1005",
+        "temp" : "75625",
+        "name" : "FUNDAMENTALS OF CYBER SECURITY",
+        "credits": "3",
+        "day" : "TF",
+        "time" : "1215-1340",
+        "professor" : "Erald Troja",
+        "type": "lec-lab",
+        "seat" : "0"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CSS1006",
+        "temp" : "75626",
+        "name" : "MANAGEMENT OF INFORMATION SECURITY",
+        "credits": "3",
+        "day" : "W",
+        "time" : "1700-1950",
+        "professor" : "Dick Geoffrey",
+        "type": "lec-lab",
+        "seat" : "3"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CSS1008",
+        "temp" : "75623",
+        "name" : "HEALTHCARE INFORMATICS SECURITY",
+        "credits": "3",
+        "day" : "F",
+        "time" : "1040-1205",
+        "professor" : "Suzanna Schmeelk",
+        "type": "hybrid",
+        "seat" : "0"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CSS1015",
+        "temp" : "75630",
+        "name" : "WIRELESS SECURITY",
+        "credits": "3",
+        "day" : "W",
+        "time" : "1350-1640",
+        "professor" : "Erald Troja",
+        "type": "lec-lab",
+        "seat" : "0"
+          }},
+
+        {
+        "course":{
+        "semester" : "Fall",
+        "crn" : "CSS1032",
+        "temp" : "73711",
+        "name" : "CYBER THREATS AND DETECTION",
+        "credits": "3",
+        "day" : "TF",
+        "time" : "1040-1205",
+        "professor" : "Erald Troja",
+        "type": "lec-lab",
+        "seat" : "7"
+          }}
+]

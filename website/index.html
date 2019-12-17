@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CPS Course Search</title>
+    <style> body {padding: 0; margin: 0;} </style>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <script src="libraries/p5.js"></script>
+    <script src="libraries/p5.sound.js"></script>
+    <script src="js/sketch.js"></script>
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <img src="sju.png" style="width: 15%">
+    <br><br><br>
+    <h3>The Lesley H. and William L. Collins College of Professional Studies</h3>
+    <br>
+    <h5>Fall 2019 Course Search</h5>
+    <br><br>
+
+
+    <div class="container col-sm-12">
+      <div class="row">
+        <div class="col-sm-4"></div>
+        <div class="col-sm-4">
+          <div class="col-lg-12 jumbotron">
+              <h5>* - indocates fields that require all capital letters</h5>
+              <h7>Search from one of the fields below</h7><br>
+              <h7>Must restart page to perform new search</h7>
+                <br><br>
+              <div style="width: %" class="form-group">
+                <label for="usr">Course code*:</label>
+                <input type="text" class="form-control" id="crn">
+              </div>
+
+              <div style="width: 100%" class="form-group">
+                <label for="usr">Course Title*:</label>
+                <input type="text" class="form-control" id="title">
+              </div>
+
+              <div style="width: 100%" class="form-group">
+                <label for="usr">Instructor:</label>
+                <input type="text" class="form-control" id="profname">
+              </div>
+
+              <div style="width: 100%" class="form-group">
+                <label for="usr">Day*:    (TF , MR , W , M, T , F, S ) </label>
+                <input type="text" class="form-control" id="day">
+              </div>
+
+              <div style="width: 100%" class="form-group">
+                <label for="usr"> Minimum Available Seats</label>
+                <input type="text" class="form-control" id="seat">
+              </div>
+
+              <div style="width: 100%" class="form-group">
+                <label for="usr"> Course Type:    ('lab',   'lecture',  'hybrid')</label>
+                <input type="text" class="form-control" id="type">
+              </div>
+
+        <input type="button" id="button" value="Search" onclick="crnsearch()">
+          </div>
+        </div>
+        <div class="col-sm-4"></div>
+      </div>
+
+    </div>
+
+    <h3>Results:</h3>
+
+
+
+
+
+
+  </body>
+</html>
